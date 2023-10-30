@@ -12,8 +12,8 @@
 ## Vision-Language Model - Domain Generalization
 | Year | Venue | Title | Institute | Code |
 | :---:| :---: | :---: | :---: | :---: |
-| 2023 | ICCV | [SuS-X: Training-Free Name-Only Transfer of Vision-Language Models](https://arxiv.org/abs/2211.16198) | Shanghai AI Laboratory | [link](https://github.com/vishaal27/SuS-X) |
 | 2023 | AAAI | [CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention](https://arxiv.org/abs/2209.14169) |  Peking University | [link](https://github.com/ZiyuGuo99/CALIP) |
+| 2023 | ICCV | [SuS-X: Training-Free Name-Only Transfer of Vision-Language Models](https://arxiv.org/abs/2211.16198) | Shanghai AI Laboratory | [link](https://github.com/vishaal27/SuS-X) |
 | 2022 | NeurIPS | [Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models](https://arxiv.org/abs/2209.07511) | Nvidia | [link](https://azshue.github.io/TPT/) |
 | 2022 | CVPR | [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557) | Nanyang Technological University | [link](https://github.com/KaiyangZhou/CoOp) |
 | 2022 | IJCV | [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134) | Nanyang Technological University | [link](https://github.com/KaiyangZhou/CoOp) |

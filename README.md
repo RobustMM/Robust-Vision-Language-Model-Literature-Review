@@ -24,7 +24,7 @@
 | :---:| :---: | :---: | :---: | :---: |
 | 2023 | CVPR | [Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners](https://arxiv.org/abs/2303.02151) | Shanghai AI Laboratory | [link](https://github.com/ZrrSkywalker/CaFo) |
 | 2023 | ICCV | [Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Not_All_Features_Matter_Enhancing_Few-shot_CLIP_with_Adaptive_Prior_ICCV_2023_paper.pdf) | Shanghai AI Laboratory | [link](https://github.com/yangyangyang127/APE) |
-| 2022 | AAAI | [Revisiting Few-Shot Learning from a Causal Perspective](https://arxiv.org/abs/2209.13816) | Sun Yat-Sen university | \ |
+| 2022 | AAAI | [Revisiting Few-Shot Learning from a Causal Perspective](https://arxiv.org/abs/2209.13816) | Sun Yat-Sen university | [link](https://github.com/lingl1024/causalFewShot) |
 | 2022 | CVPR | [Conditional Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2203.05557) | Nanyang Technological University | [link](https://github.com/KaiyangZhou/CoOp) |
 | 2022 | ECCV | [Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification](https://arxiv.org/abs/2111.03930) | Shanghai AI Laboratory | [link](https://github.com/gaopengcuhk/Tip-Adapter) |
 | 2022 | IJCV | [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134) | Nanyang Technological University | [link](https://github.com/KaiyangZhou/CoOp) |

@@ -5,6 +5,7 @@
 | :---:| :---: | :---: | :---: | :---: |
 | 2023 | Arxiv | [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) | Salesforce Research | [Link](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
 | 2023 | Arxiv | [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500) | Salesforce Research | [Link](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
+| 2023 | CVPR | [Image as a Foreign Language: BEIT Pretraining for Vision and Vision-Language Tasks](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Image_as_a_Foreign_Language_BEiT_Pretraining_for_Vision_and_CVPR_2023_paper.pdf) | Microsoft | [Link](https://github.com/microsoft/unilm/tree/master/beit3)
 | 2022 | ICML  | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf)  | Salesforce Research | [Link](https://github.com/salesforce/BLIP)
 | 2021 | ICML  | [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf) | OpenAI | [Link](https://github.com/OpenAI/CLIP)
 

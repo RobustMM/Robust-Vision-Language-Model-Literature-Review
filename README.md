@@ -12,6 +12,7 @@
 | 2022 | ICML  | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf)  | Salesforce Research | [Link](https://github.com/salesforce/BLIP)
 | 2021 | ICML  | [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf) | OpenAI | [Link](https://github.com/OpenAI/CLIP)
 | 2021 | ICML | [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://proceedings.mlr.press/v139/jia21b/jia21b.pdf) | Google Research| -
+| 2021 | NeurIPS | [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://proceedings.neurips.cc/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf) | Salesforce Research | [Link](https://github.com/salesforce/ALBEF)
 
 
 ## Vision-Language Model - Domain Generalization

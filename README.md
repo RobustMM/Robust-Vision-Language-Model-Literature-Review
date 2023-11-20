@@ -9,6 +9,8 @@
 | 2023 | ICCV | [ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428) | DeepGlint | [Link](https://github.com/deepglint/ALIP)
 | 2023 | ICCV | [GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_GrowCLIP_Data-Aware_Automatic_Model_Growing_for_Large-scale_Contrastive_Language-Image_Pre-Training_ICCV_2023_paper.pdf) | Sun Yat-sen University  | -
 | 2023 | ICLR | [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://openreview.net/forum?id=mWVoBz4W0u) | Google Research | [Link](https://github.com/kyegomez/PALI)
+| 2023 | ICML | [Scaling Vision Transformers to 22 Billion Parameters](https://openreview.net/pdf?id=Lhyy8H75KA) | Google Research | -
+| 2022 | ICLR | [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://openreview.net/pdf?id=GUrhfTuf_3) | Google Research | -
 | 2022 | ICML  | [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://proceedings.mlr.press/v162/li22n/li22n.pdf)  | Salesforce Research | [Link](https://github.com/salesforce/BLIP)
 | 2021 | ICML  | [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf) | OpenAI | [Link](https://github.com/OpenAI/CLIP)
 | 2021 | ICML | [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://proceedings.mlr.press/v139/jia21b/jia21b.pdf) | Google Research| -

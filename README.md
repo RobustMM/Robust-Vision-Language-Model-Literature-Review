@@ -97,4 +97,7 @@
 | 2023 | AAAI | [CLIP-ReID: Exploiting Vision-Language Model for Image Re-identification without Concrete Text Labels](https://arxiv.org/abs/2211.13977) | East China Normal University | [Link](https://github.com/Syliz517/CLIP-ReID)
 | 2023 | IJCV |  [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/abs/2304.01457) | Peking University | [Link](https://github.com/Imbalance-VLM/Imbalance-VLM)
 | 2022 | Arxiv | [Unsupervised Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2204.03649) | Peking University | [Link](https://github.com/tonyhuang2022/UPL) |
+| 2022 | ECCV | [Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071) | Nanyang Technological University | [Link](https://github.com/chongzhou96/MaskCLIP)
+| 2022 | ECCV | [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) | Shanghai Jiao Tong University | [Link](https://github.com/ju-chen/Efficient-Prompt)
 | 2022 | ECCV | [Visual Prompt Tuning](https://arxiv.org/abs/2203.12119) | Cornell University | [Link](https://github.com/kmnp/vpt)
+| 2021 | ICCV | [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249) | Hebrew University of Jerusalem | [Link](https://github.com/orpatashnik/StyleCLIP)

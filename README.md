@@ -1,6 +1,8 @@
 # Robust-Vision-Language-Model-Literature-Review
+<!-- <h1>Vision-Language Foundation Model</h1> -->
+<details>
+<summary>Vision-Language Foundation Model</summary>
 
-## Vision-Language Foundation Model
 | Year | Venue | Title | Institute | Code |
 | :---:| :---: | :---: | :---: | :---: |
 | 2023 | Arxiv | [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) | Salesforce Research | [Link](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
@@ -15,7 +17,9 @@
 | 2021 | ICML  | [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf) | OpenAI | [Link](https://github.com/OpenAI/CLIP)
 | 2021 | ICML | [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://proceedings.mlr.press/v139/jia21b/jia21b.pdf) | Google Research| -
 | 2021 | NeurIPS | [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://proceedings.neurips.cc/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf) | Salesforce Research | [Link](https://github.com/salesforce/ALBEF)
+</details>
 
+<details> <summary>Vision-Language Model - Domain Generalization</summary>
 
 ## Vision-Language Model - Domain Generalization
 | Year | Venue | Title | Institute | Code |
@@ -40,6 +44,9 @@
 | 2022 | CVPR | [Robust fine-tuning of zero-shot models](https://openaccess.thecvf.com/content/CVPR2022/papers/Wortsman_Robust_Fine-Tuning_of_Zero-Shot_Models_CVPR_2022_paper.pdf) | University of Washington | [Link](https://github.com/mlfoundations/wise-ft) |
 | 2022 | IJCV | [Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134) | Nanyang Technological University | [Link](https://github.com/KaiyangZhou/CoOp) |
 | 2022 | NeurIPS | [Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models](https://arxiv.org/abs/2209.07511) | Nvidia | [Link](https://azshue.github.io/TPT/) |
+</details>
+
+<details><summary>Vision-Language Model - Zero Shot Learning</summary>
 
 ## Vision-Language Model - Zero Shot Learning
 | Year | Venue | Title | Institute | Code |
@@ -52,7 +59,9 @@
 | 2023 | ICML | [CHiLS: Zero-Shot Image Classification with Hierarchical Label Sets](https://proceedings.mlr.press/v202/novack23a/novack23a.pdf) | University of California, San Diego | [Link](https://github.com/acmi-lab/CHILS) |
 | 2022 | BMVC | [SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models](https://arxiv.org/pdf/2210.03794) | University College London | [Link](https://github.com/omipan/svl_adapter) |
 | 2022 | NeurIPS | [Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models](https://arxiv.org/abs/2209.07511) | Nvidia | [Link](https://azshue.github.io/TPT/) |
+</details>
 
+<details> <summary>Vision-Language Model - Few Shot Learning</summary>
 
 ## Vision-Language Model - Few Shot Learning
 | Year | Venue | Title | Institute | Code |
@@ -89,6 +98,9 @@
 | 2022 | NeurIPS | [DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations](https://arxiv.org/abs/2206.09541) | Boston University | [Link](https://github.com/sunxm2357/DualCoOp) |
 | 2021 | Arxiv | [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/abs/2110.04544) | Shanghai AI Laboratory | [Link](https://github.com/gaopengcuhk/CLIP-Adapter) |
 | 2021 | Arxiv | [VT-CLIP: Enhancing Vision-Language Models with Visual-guided Texts](https://arxiv.org/abs/2112.02399) | ShanghaiTech University | - |
+</details>
+
+<details><summary>Vision-Language Model - Other Downstream</summary>
 
 ## Vision-Language Model - Other Downstream
 | Year | Venue | Title | Institute | Code |
@@ -101,3 +113,4 @@
 | 2022 | ECCV | [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) | Shanghai Jiao Tong University | [Link](https://github.com/ju-chen/Efficient-Prompt)
 | 2022 | ECCV | [Visual Prompt Tuning](https://arxiv.org/abs/2203.12119) | Cornell University | [Link](https://github.com/kmnp/vpt)
 | 2021 | ICCV | [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249) | Hebrew University of Jerusalem | [Link](https://github.com/orpatashnik/StyleCLIP)
+</details>

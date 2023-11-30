@@ -114,5 +114,6 @@
 | 2022 | ECCV | [Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071) | Nanyang Technological University | [Link](https://github.com/chongzhou96/MaskCLIP)
 | 2022 | ECCV | [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) | Shanghai Jiao Tong University | [Link](https://github.com/ju-chen/Efficient-Prompt)
 | 2022 | ECCV | [Visual Prompt Tuning](https://arxiv.org/abs/2203.12119) | Cornell University | [Link](https://github.com/kmnp/vpt)
+| 2022 | ICLR | [Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://arxiv.org/abs/2104.13921) | Google Research | [Link](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 | 2021 | ICCV | [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249) | Hebrew University of Jerusalem | [Link](https://github.com/orpatashnik/StyleCLIP)
 </details>

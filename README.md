@@ -110,7 +110,9 @@
 | 2023 | Arxiv | [UP-DP: Unsupervised Prompt Learning for Data Pre-Selection with Vision-Language Models](https://arxiv.org/abs/2307.11227) | Bosch Research | - |
 | 2023 | AAAI | [CLIP-ReID: Exploiting Vision-Language Model for Image Re-identification without Concrete Text Labels](https://arxiv.org/abs/2211.13977) | East China Normal University | [Link](https://github.com/Syliz517/CLIP-ReID)
 | 2023 | IJCV |  [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/abs/2304.01457) | Peking University | [Link](https://github.com/Imbalance-VLM/Imbalance-VLM)
+| 2022 | Arxiv | [Domain Adaptation via Prompt Learning](https://arxiv.org/abs/2202.06687) | Tsinghua University | [Link](https://github.com/LeapLabTHU/DAPrompt)
 | 2022 | Arxiv | [Unsupervised Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2204.03649) | Peking University | [Link](https://github.com/tonyhuang2022/UPL) |
+| 2022 | CVPR | [CLIPstyler: Image Style Transfer with a Single Text Condition](https://arxiv.org/abs/2112.00374) | KAIST | [Link](https://github.com/cyclomon/CLIPstyler) |
 | 2022 | ECCV | [Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071) | Nanyang Technological University | [Link](https://github.com/chongzhou96/MaskCLIP)
 | 2022 | ECCV | [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) | Shanghai Jiao Tong University | [Link](https://github.com/ju-chen/Efficient-Prompt)
 | 2022 | ECCV | [Visual Prompt Tuning](https://arxiv.org/abs/2203.12119) | Cornell University | [Link](https://github.com/kmnp/vpt)
